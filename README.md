@@ -1,15 +1,10 @@
+<!-- Top Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Neeraj%20Gautam&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Android%20%26%20Backend%20Developer&descAlignY=58&descSize=20)
+
 <div align="center">
 
-<!-- Dynamic typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FFC8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+real+products+at+a+Banking+Startup+%F0%9F%8F%A6;Android+%7C+Backend+%7C+Microservices+%7C+Security)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FFC8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hey+%F0%9F%91%8B+I'm+Neeraj+Gautam;Android+%26+Backend+Developer)](https://git.io/typing-svg)
-
-<!-- Subtitle -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1500&color=6A7A90&center=true&vCenter=true&width=700&lines=Building+products+at+a+Banking+Startup+%F0%9F%8F%A6;Kotlin+%7C+Jetpack+Compose+%7C+Node.js+%7C+Microservices;Cybersecurity+Enthusiast+%F0%9F%94%90+%7C+Neovim+Devotee+%E2%9A%A1;+Targeting+Product+Companies+2026+%F0%9F%8E%AF" alt="Subtitle" />
-</p>
-
-<!-- Profile views + social badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gautamneeraj88&style=for-the-badge&color=00ffc8&labelColor=0d1117&label=PROFILE+VIEWS" />
   <a href="https://www.linkedin.com/in/neeraj-gautam-b86188251">
@@ -22,8 +17,6 @@
 
 ---
 
-<!-- About section styled as a terminal -->
-
 ```kotlin
 val neeraj = Developer(
     name      = "Neeraj Gautam",
@@ -33,6 +26,23 @@ val neeraj = Developer(
     hobbies   = listOf("Cybersecurity CTFs", "Neovim Config", "Linux Tinkering")
 )
 ```
+
+---
+
+## 💼 What I Bring to Your Team
+
+<div align="center">
+
+| Strength | How It Helps You |
+|---|---|
+| 📱 **Full Android Stack** | Delivers production-ready apps with Compose + MVVM + Clean Architecture — no ramp-up needed |
+| 🔧 **Backend + Microservices** | Builds scalable APIs with Node.js, Kafka, Redis — can own a service end-to-end |
+| 🏦 **Real Banking Product Experience** | Understands fintech constraints: security, reliability, compliance, and performance under pressure |
+| 🔐 **Security-Aware Engineering** | Thinks about CVEs and attack surfaces during development, not after — CPT certified |
+| ⚡ **Terminal-First, Fast Mover** | Neovim + Linux workflow means high productivity with minimal tooling friction |
+| 📐 **Architecture Thinking** | Designed systems with MongoDB Replica Sets, Kafka event buses, and containerized infra in production |
+
+</div>
 
 ---
 
@@ -88,6 +98,7 @@ val neeraj = Developer(
 ## 🚀 Featured Projects
 
 <div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -98,10 +109,10 @@ val neeraj = Developer(
 
 - **Stack:** Kotlin · Jetpack Compose · MVVM · Retrofit
 - **Architecture:** Clean Architecture + Repository Pattern
-- **Features:** Secure auth, transaction history, real-time notifications via SSE
+- **Features:** Secure auth, transaction history, real-time SSE notifications
 - **DB:** Prisma ORM + PostgreSQL with BCNF normalization
 
-[![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gautamneeraj88)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Gautamneeraj88&repo=BankOnTheGo&theme=transparent&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=6a7a90&bg_color=0d1117)](https://github.com/Gautamneeraj88)
 
 </td>
 <td width="50%" valign="top">
@@ -115,7 +126,7 @@ val neeraj = Developer(
 - **Features:** Real-time notifications (RxJS + Kafka), AI-powered reports
 - **Security:** Patched CVE GHSA-9qr9-h5gf-34mp (Next.js RCE)
 
-[![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gautamneeraj88)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Gautamneeraj88&repo=FormBuilder&theme=transparent&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=6a7a90&bg_color=0d1117)](https://github.com/Gautamneeraj88)
 
 </td>
 </tr>
@@ -130,7 +141,7 @@ val neeraj = Developer(
 - **Features:** Web dashboard, real-time sensor readings
 - **Hardware:** Custom sensor array for quality metrics
 
-[![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gautamneeraj88)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Gautamneeraj88&repo=GrainQualityMonitor&theme=transparent&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=6a7a90&bg_color=0d1117)](https://github.com/Gautamneeraj88)
 
 </td>
 <td width="50%" valign="top">
@@ -143,31 +154,13 @@ val neeraj = Developer(
 - **Features:** 9 interactive visualizers, 190+ topics, quiz system
 - **Arch:** Static JSON data, custom visualizer state machine, CI/CD
 
-[![Repo](https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gautamneeraj88)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Gautamneeraj88&repo=dsa-mastery&theme=transparent&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=6a7a90&bg_color=0d1117)](https://github.com/Gautamneeraj88/dsa-mastery)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00ffc8?style=for-the-badge&logo=vercel&logoColor=black)](https://gautamneeraj88.github.io/dsa-mastery)
 
 </td>
 </tr>
 </table>
-</div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gautamneeraj88&show_icons=true&theme=transparent&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=6a7a90&bg_color=0d1117&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautamneeraj88&layout=compact&theme=transparent&hide_border=true&title_color=00ffc8&text_color=6a7a90&bg_color=0d1117&langs_count=8" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gautamneeraj88&theme=transparent&hide_border=true&stroke=1a2535&ring=00ffc8&fire=ff6b6b&currStreakLabel=00ffc8&sideLabels=6a7a90&dates=3a4a5a&background=0d1117" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gautamneeraj88&bg_color=0d1117&color=6a7a90&line=00ffc8&point=ffffff&area=true&area_color=00ffc820&hide_border=true" />
 </div>
 
 ---
@@ -198,16 +191,77 @@ val neeraj = Developer(
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gautamneeraj88&show_icons=true&theme=transparent&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=6a7a90&bg_color=0d1117&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautamneeraj88&layout=compact&theme=transparent&hide_border=true&title_color=00ffc8&text_color=6a7a90&bg_color=0d1117&langs_count=8" />
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gautamneeraj88&theme=transparent&hide_border=true&stroke=1a2535&ring=00ffc8&fire=ff6b6b&currStreakLabel=00ffc8&sideLabels=6a7a90&dates=3a4a5a&background=0d1117" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gautamneeraj88&bg_color=0d1117&color=6a7a90&line=00ffc8&point=ffffff&area=true&area_color=00ffc820&hide_border=true" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gautamneeraj88/Gautamneeraj88/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gautamneeraj88/Gautamneeraj88/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gautamneeraj88/Gautamneeraj88/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🏔️ 3D Contribution Skyline
+
+<div align="center">
+
+> See my GitHub contributions as a 3D city skyline
+
+[![2025 Skyline](https://img.shields.io/badge/View%202025%20Skyline-0d1117?style=for-the-badge&logo=github&logoColor=00ffc8)](https://skyline.github.com/Gautamneeraj88/2025)
+[![2024 Skyline](https://img.shields.io/badge/View%202024%20Skyline-0d1117?style=for-the-badge&logo=github&logoColor=6a7a90)](https://skyline.github.com/Gautamneeraj88/2024)
+
+</div>
+
+---
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Gautamneeraj88&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
+
+---
+
 ## 🔐 Cybersecurity Hobby
 
 <div align="center">
 
-| Platform          | Activity                                  |
-| ----------------- | ----------------------------------------- |
-| 🥷 TryHackMe      | CTF challenges, learning rooms            |
-| 🧨 HackTheBox     | Penetration testing practice              |
-| 🛡️ DVWA           | Web vulnerability practice (local)        |
-| 📖 CVE Research   | Patched CVE in live production project    |
+| Platform | Activity |
+|---|---|
+| 🥷 TryHackMe | CTF challenges, learning rooms |
+| 🧨 HackTheBox | Penetration testing practice |
+| 🛡️ DVWA | Web vulnerability practice (local) |
+| 📖 CVE Research | Patched CVE in live production project |
 | 🥏 Raspberry Pi 5 | Running Kali Linux container for practice |
 
 > _CPT Certified · Treating security as a core engineering skill, not just a hobby_
@@ -237,11 +291,11 @@ Workflow: Terminal-first. Mouse optional.
 
 <div align="center">
 
-| Topic                  | Status     | Goal                               |
-| ---------------------- | ---------- | ---------------------------------- |
-| 🔵 Go (Golang)         | 🟡 Planned | Backend diversification            |
-| 🔐 Advanced Pentesting | 🟡 Ongoing | Hobby → Credential                 |
-| ☁️ Cloud Architecture  | 📅 Queued  | Complement microservices expertise |
+| Topic | Status | Goal |
+|---|---|---|
+| 🔵 Go (Golang) | 🟡 Planned | Backend diversification |
+| 🔐 Advanced Pentesting | 🟡 Ongoing | Hobby → Credential |
+| ☁️ Cloud Architecture | 📅 Queued | Complement microservices expertise |
 
 </div>
 
@@ -261,16 +315,13 @@ Workflow: Terminal-first. Mouse optional.
 
 ### 💬 Let's Connect
 
-_I'm always up for talking about Android architecture, microservices, Neovim configs, or CTF writeups._
+_I'm always open to discussing Android architecture, microservices design, Neovim configs, or CTF writeups._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-gautam-b86188251)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gautamneeraj88)
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00ffc8&height=100&section=footer&fontColor=0d1117)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
-
-
-
