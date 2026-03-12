@@ -6,7 +6,7 @@
 
 <!-- Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1500&color=6A7A90&center=true&vCenter=true&width=700&lines=Building+products+at+a+Banking+Startup+%F0%9F%8F%A6;Kotlin+%7C+Jetpack+Compose+%7C+Node.js+%7C+Microservices;Cybersecurity+Enthusiast+%F0%9F%94%90+%7C+Neovim+Devotee+%E2%9A%A1;MCA+%40+IGNOU+%7C+Targeting+Product+Companies+2026+%F0%9F%8E%AF" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=1500&color=6A7A90&center=true&vCenter=true&width=700&lines=Building+products+at+a+Banking+Startup+%F0%9F%8F%A6;Kotlin+%7C+Jetpack+Compose+%7C+Node.js+%7C+Microservices;Cybersecurity+Enthusiast+%F0%9F%94%90+%7C+Neovim+Devotee+%E2%9A%A1;+Targeting+Product+Companies+2026+%F0%9F%8E%AF" alt="Subtitle" />
 </p>
 
 <!-- Profile views + social badges -->
@@ -273,4 +273,5 @@ _I'm always up for talking about Android architecture, microservices, Neovim con
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00ffc8&height=100&section=footer&fontColor=0d1117)
 
 </div>
+
 
