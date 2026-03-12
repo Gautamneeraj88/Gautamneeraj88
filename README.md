@@ -28,8 +28,6 @@
 val neeraj = Developer(
     name      = "Neeraj Gautam",
     role      = "Android + Backend Developer",
-    company   = "Banking Startup (Remote)",
-    location  = "India 🇮🇳  →  Germany 🇩🇪 (2027-28)",
     focus     = listOf("Jetpack Compose", "Kotlin", "Microservices", "DSA"),
     goal      = "Join a Product-Based Company by July 2026",
     hobbies   = listOf("Cybersecurity CTFs", "Neovim Config", "Linux Tinkering")
@@ -273,5 +271,6 @@ _I'm always up for talking about Android architecture, microservices, Neovim con
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00ffc8&height=100&section=footer&fontColor=0d1117)
 
 </div>
+
 
 
