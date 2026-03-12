@@ -124,7 +124,7 @@ drwxr-xr-x  dsa-mastery/            React · D3.js · Vite                [BUILD
 - **Features:** Secure auth, transaction history, real-time SSE notifications
 - **DB:** Prisma ORM + PostgreSQL with BCNF normalization
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Gautamneeraj88&repo=BankOnTheGo&theme=transparent&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=6a7a90&bg_color=0d1117)](https://github.com/Gautamneeraj88)
+![private](https://img.shields.io/badge/repo-private_(office_work)-6a7a90?style=flat-square&logo=github&logoColor=white)
 
 </details>
 
@@ -140,7 +140,7 @@ drwxr-xr-x  dsa-mastery/            React · D3.js · Vite                [BUILD
 - **Features:** Real-time notifications via RxJS + Kafka, AI-powered reports
 - **Security:** Patched CVE GHSA-9qr9-h5gf-34mp (Next.js RCE)
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Gautamneeraj88&repo=FormBuilder&theme=transparent&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=6a7a90&bg_color=0d1117)](https://github.com/Gautamneeraj88)
+![private](https://img.shields.io/badge/repo-private_(office_work)-6a7a90?style=flat-square&logo=github&logoColor=white)
 
 </details>
 
@@ -155,7 +155,7 @@ drwxr-xr-x  dsa-mastery/            React · D3.js · Vite                [BUILD
 - **Features:** Web dashboard, real-time sensor readings
 - **Hardware:** Custom sensor array for quality metrics
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Gautamneeraj88&repo=GrainQualityMonitor&theme=transparent&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=6a7a90&bg_color=0d1117)](https://github.com/Gautamneeraj88)
+![private](https://img.shields.io/badge/repo-private_(office_work)-6a7a90?style=flat-square&logo=github&logoColor=white)
 
 </details>
 
@@ -170,7 +170,7 @@ drwxr-xr-x  dsa-mastery/            React · D3.js · Vite                [BUILD
 - **Features:** 9 interactive visualizers, 190+ topics, quiz system
 - **Arch:** Static JSON data, custom visualizer state machine, CI/CD
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Gautamneeraj88&repo=dsa-mastery&theme=transparent&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=6a7a90&bg_color=0d1117)](https://github.com/Gautamneeraj88/dsa-mastery)
+[![view repo](https://img.shields.io/badge/view_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gautamneeraj88/dsa-mastery)
 [![Live Demo](https://img.shields.io/badge/live_demo-00ffc8?style=flat-square&logo=vercel&logoColor=black)](https://gautamneeraj88.github.io/dsa-mastery)
 
 </details>
@@ -214,31 +214,6 @@ drwxr-xr-x  dsa-mastery/            React · D3.js · Vite                [BUILD
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gautamneeraj88&bg_color=0d1117&color=6a7a90&line=00ffc8&point=ffffff&area=true&area_color=00ffc820&hide_border=true" />
 
-</div>
-
----
-
-## `$ ./snake.sh`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gautamneeraj88/Gautamneeraj88/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gautamneeraj88/Gautamneeraj88/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gautamneeraj88/Gautamneeraj88/output/github-contribution-grid-snake.svg">
-</picture>
-
-[![2025 Skyline](https://img.shields.io/badge/view_2025_skyline-0d1117?style=flat-square&logo=github&logoColor=00ffc8)](https://skyline.github.com/Gautamneeraj88/2025)
-[![2024 Skyline](https://img.shields.io/badge/view_2024_skyline-0d1117?style=flat-square&logo=github&logoColor=6a7a90)](https://skyline.github.com/Gautamneeraj88/2024)
-
-</div>
-
----
-
-## `$ htop --filter=trophies`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Gautamneeraj88&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
