@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=1000&color=00FFC8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=neeraj%40gautam+~+%24+cat+profile.txt;+%3E%3E+Android+%26+Backend+Developer;+%3E%3E+Building+at+a+Banking+Startup;neeraj%40gautam+~+%24+_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=1000&color=00FFC8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=neeraj%40gautam+~+%24+cat+profile.txt;+%3E%3E+Android+%26+Backend+Developer;neeraj%40gautam+~+%24+_)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gautamneeraj88&style=flat-square&color=00ffc8&labelColor=0d1117&label=views" />
@@ -292,3 +292,4 @@ neeraj@gautam:~$ █
 ```
 
 </div>
+
