@@ -154,6 +154,8 @@ graph LR
 
 #### ⚡ Recent Activity
 <!--START_SECTION:activity-->
+- ⚡ Pushed 1 commit to [Gautamneeraj88/Gautamneeraj88](https://github.com/Gautamneeraj88/Gautamneeraj88) — *Sep 8, 2026*
+- 🌱 Created branch `fix/keymap-and-plugin-cleanup` in [Gautamneeraj88/nvim-config](https://github.com/Gautamneeraj88/nvim-config) — *Aug 25, 2026*
 <!--END_SECTION:activity-->
 
 ---
