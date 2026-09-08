@@ -6,10 +6,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=1000&color=00FFC8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=Building+resilient+systems+and+modern+mobile+experiences.;Security-aware+dev+%7C+Zero-trust+mindset+%7C+Terminal-first.)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/neeraj-gautam-b86188251"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/neeraj-gautam-b86188251" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:gautamneeraj014@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Focus-Product--Based_Company_2026-00ffc8?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Security-CPT_Certified-00ffc8?style=for-the-badge&labelColor=0d1117" />
+  <a href="#-featured-proof-of-work"><img src="https://img.shields.io/badge/Focus-Product--Based_Company_2026-00ffc8?style=for-the-badge&labelColor=0d1117" /></a>
+  <a href="#-technical-arsenal"><img src="https://img.shields.io/badge/Security-CPT_Certified-00ffc8?style=for-the-badge&labelColor=0d1117" /></a>
 </p>
 
 </div>
@@ -73,6 +73,48 @@ graph LR
 ---
 
 ### 🛠 Technical Arsenal
+
+<div align="center">
+
+**· Android & Mobile ·**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
+![MVVM](https://img.shields.io/badge/MVVM-FF6B6B?style=flat-square)
+
+**· Backend & Microservices ·**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![SSE](https://img.shields.io/badge/SSE-00ffc8?style=flat-square&labelColor=0d1117)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+**· DevOps & Infrastructure ·**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**· Security & Tools ·**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+</div>
+
+<br>
 
 | Domain | Core Stack | Applied Focus |
 | :--- | :--- | :--- |
@@ -147,8 +189,10 @@ graph LR
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gautamneeraj88&show_icons=true&theme=transparent&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=8b949e&bg_color=0d1117&count_private=true&include_all_commits=true" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautamneeraj88&layout=compact&theme=transparent&hide_border=true&title_color=00ffc8&text_color=8b949e&bg_color=0d1117&langs_count=6" />
+<img height="155em" src="https://github-stats-extended.vercel.app/api?username=Gautamneeraj88&show_icons=true&theme=transparent&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=8b949e&bg_color=0d1117&count_private=true&include_all_commits=true" />
+<img height="155em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gautamneeraj88&layout=compact&theme=transparent&hide_border=true&title_color=00ffc8&text_color=8b949e&bg_color=0d1117&langs_count=6" />
+
+<img src="https://streak-stats.demolab.com/?user=Gautamneeraj88&theme=transparent&hide_border=true&stroke=1a2535&ring=00ffc8&fire=ff6b6b&currStreakLabel=00ffc8&sideLabels=8b949e&dates=3a4a5a&background=0d1117" />
 
 </div>
 
