@@ -15,10 +15,80 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update activity in README
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Fetch and format recent activity
+        uses: actions/github-script@v7
         with:
-          COMMIT_MSG: "chore: update README with recent activity"
-          MAX_LINES: 6
+          script: |
+            const fs = require('fs');
+            const username = 'Gautamneeraj88';
+
+            const res = await github.rest.activity.listPublicEventsForUser({
+              username: username,
+              per_page: 30
+            });
+
+            const formatted = [];
+            const seen = new Set();
+
+            for (const event of res.data) {
+              if (formatted.length >= 6) break;
+              const repoName = event.repo.name;
+              const repoUrl = `https://github.com/${repoName}`;
+              const date = new Date(event.created_at).toLocaleDateString('en-US', {
+                month: 'short',
+                day: 'numeric',
+                year: 'numeric'
+              });
+
+              let text = null;
+              if (event.type === 'PushEvent') {
+                const count = event.payload.size || (event.payload.commits ? event.payload.commits.length : 1);
+                const key = `push-${repoName}-${date}`;
+                if (seen.has(key)) continue;
+                seen.add(key);
+                const commitText = count > 1 ? `${count} commits` : '1 commit';
+                text = `⚡ Pushed ${commitText} to [${repoName}](${repoUrl}) — *${date}*`;
+              } else if (event.type === 'PullRequestEvent') {
+                const pr = event.payload.pull_request;
+                const action = event.payload.action.charAt(0).toUpperCase() + event.payload.action.slice(1);
+                text = `💪 ${action} PR [#${pr.number}](${pr.html_url}) in [${repoName}](${repoUrl}) — *${date}*`;
+              } else if (event.type === 'CreateEvent') {
+                const refType = event.payload.ref_type;
+                const ref = event.payload.ref ? `\`${event.payload.ref}\`` : '';
+                text = `🌱 Created ${refType} ${ref} in [${repoName}](${repoUrl}) — *${date}*`;
+              } else if (event.type === 'IssuesEvent') {
+                const issue = event.payload.issue;
+                const action = event.payload.action.charAt(0).toUpperCase() + event.payload.action.slice(1);
+                text = `❗ ${action} issue [#${issue.number}](${issue.html_url}) in [${repoName}](${repoUrl}) — *${date}*`;
+              }
+
+              if (text) {
+                formatted.push(text);
+              }
+            }
+
+            if (!formatted.length) return;
+
+            let readme = fs.readFileSync('README.md', 'utf8');
+            const startTag = '<!--START_SECTION:activity-->';
+            const endTag = '<!--END_SECTION:activity-->';
+
+            const startIndex = readme.indexOf(startTag);
+            const endIndex = readme.indexOf(endTag);
+
+            if (startIndex === -1 || endIndex === -1) return;
+
+            const contentToInsert = '\n' + formatted.map(line => `- ${line}`).join('\n') + '\n';
+            const updatedReadme = readme.substring(0, startIndex + startTag.length) + contentToInsert + readme.substring(endIndex);
+
+            fs.writeFileSync('README.md', updatedReadme, 'utf8');
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "chore: update README with recent activity"
+            git push
+          fi
