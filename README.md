@@ -1,14 +1,14 @@
 <div align="center">
 
-# Neeraj Gautam
-### Android & Distributed Systems Engineer · Fintech & Security Mindset
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffc8,100:0d1117&height=200&section=header&text=NEERAJ%20GAUTAM&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Android%20%26%20Distributed%20Systems%20Engineer%20%C2%B7%20Fintech%20%26%20Security&descAlignY=58&descSize=15&descColor=00ffc8" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=1000&color=00FFC8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=Building+resilient+systems+and+modern+mobile+experiences.;Security-aware+dev+%7C+Zero-trust+mindset+%7C+Terminal-first.)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/neeraj-gautam-b86188251" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:gautamneeraj014@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#-featured-proof-of-work"><img src="https://img.shields.io/badge/Focus-Product--Based_Company_2026-00ffc8?style=for-the-badge&labelColor=0d1117" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Gautamneeraj88&style=for-the-badge&color=00ffc8&labelColor=0d1117&label=VIEWS" />
+  <a href="#-featured-proof-of-work"><img src="https://img.shields.io/badge/Target-Product--Based_2026-00ffc8?style=for-the-badge&labelColor=0d1117" /></a>
   <a href="#-technical-arsenal"><img src="https://img.shields.io/badge/Security-CPT_Certified-00ffc8?style=for-the-badge&labelColor=0d1117" /></a>
 </p>
 
@@ -18,16 +18,17 @@
 
 ### ⚡ Executive Overview
 
-I engineer high-throughput backend microservices and fluid, reactive Android applications. With a foundation in banking/fintech, my focus is on **data integrity, zero-trust security, and high-concurrency event-driven architecture**.
-
 ```bash
-$ whoami --verbose
+neeraj@workstation:~$ whoami --verbose
+```
+```json
 {
   "name": "Neeraj Gautam",
-  "specialization": ["Android Architecture (Compose)", "Event-Driven Microservices (Kafka)"],
-  "domain_experience": "Fintech & Banking Systems (Reliability, Compliance, BCNF Normalization)",
-  "security_profile": "CPT Certified · Production CVE Patch Remediator (GHSA-9qr9-h5gf-34mp)",
-  "developer_environment": "macOS M4 + Kali Linux (Pi 5) · Neovim (Lua, 50+ plugins) · Linux/Podman"
+  "role": "Android & Distributed Systems Engineer",
+  "domains": "Fintech & Banking Systems (Reliability, Compliance, BCNF Normalization)",
+  "specialization": ["Android Architecture (Kotlin · Compose)", "Event-Driven Microservices (Kafka · Node)"],
+  "security_profile": "CPT Certified · Production CVE Remediator (GHSA-9qr9-h5gf-34mp)",
+  "environment": "macOS M4 + Kali Linux (Pi 5) · Neovim (Lua, 50+ plugins) · Rootless Podman"
 }
 ```
 
@@ -35,25 +36,37 @@ $ whoami --verbose
 
 ### 🧩 System Architecture in Action
 
-*High-level overview of an enterprise event-driven architecture I've designed and deployed:*
+*High-level view of an enterprise event-driven architecture designed and deployed to production:*
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#161b22',
+    'primaryTextColor': '#e6edf3',
+    'primaryBorderColor': '#00ffc8',
+    'lineColor': '#00ffc8',
+    'secondaryColor': '#0d1117',
+    'tertiaryColor': '#161b22',
+    'edgeLabelBackground': '#0d1117'
+  }
+}}%%
 graph LR
-    subgraph Client ["Client Layer"]
+    subgraph Client [" Client Layer "]
         Android["📱 Android App (Compose + MVVM)"]
         Web["💻 Web App (Next.js)"]
     end
 
-    subgraph Gateway ["Gateway & Ingestion"]
+    subgraph Gateway [" Gateway & Ingestion "]
         API["⚡ Node.js API Gateway"]
         SSE["📡 SSE Notification Engine"]
     end
 
-    subgraph Bus ["Distributed Event Bus"]
+    subgraph Bus [" Distributed Event Bus "]
         Kafka{{"🔥 Apache Kafka"}}
     end
 
-    subgraph Persistence ["Data & Cache"]
+    subgraph Persistence [" Data & Cache Layer "]
         Redis[("⚡ Redis Cache")]
         Mongo[("🍃 MongoDB Replica Set")]
         Postgres[("🐘 PostgreSQL (BCNF)")]
@@ -75,6 +88,12 @@ graph LR
 ### 🛠 Technical Arsenal
 
 <div align="center">
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,android,nodejs,express,kafka,redis,postgres,mongodb,docker,linux,neovim,cpp&theme=dark" />
+</p>
+
+<br>
 
 **· Android & Mobile ·**
 
@@ -217,5 +236,7 @@ $ echo "Let's connect: Android architecture · Distributed systems · Security r
 ```
 neeraj@gautam:~$ █
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffc8,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
