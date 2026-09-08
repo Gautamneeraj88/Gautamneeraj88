@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 200" width="100%" height="200">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0d12" />
+      <stop offset="50%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+
+    <!-- Cyan Glow Gradient -->
+    <linearGradient id="cyanGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ffc8" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00ffc8" stop-opacity="1" />
+      <stop offset="100%" stop-color="#00ffc8" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#21262d" stroke-width="0.5" stroke-opacity="0.5" />
+    </pattern>
+  </defs>
+
+  <!-- Card Base -->
+  <rect width="850" height="200" rx="12" fill="url(#bgGrad)" stroke="#30363d" stroke-width="1.2" />
+
+  <!-- Grid Overlay -->
+  <rect width="850" height="200" rx="12" fill="url(#grid)" />
+
+  <!-- Top Cyan Glow Border -->
+  <path d="M 12 1 Q 425 2 838 1" fill="none" stroke="url(#cyanGlow)" stroke-width="2.5" />
+
+  <!-- Mac Terminal Header Controls -->
+  <circle cx="28" cy="24" r="5.5" fill="#ff5f56" />
+  <circle cx="46" cy="24" r="5.5" fill="#ffbd2e" />
+  <circle cx="64" cy="24" r="5.5" fill="#27c93f" />
+
+  <!-- Terminal Title Bar -->
+  <text x="85" y="28" fill="#8b949e" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="12" letter-spacing="0.5">neeraj@workstation:~</text>
+  <text x="825" y="28" text-anchor="end" fill="#00ffc8" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" opacity="0.8">zsh · arm64</text>
+
+  <!-- Divider Line -->
+  <line x1="1" y1="44" x2="849" y2="44" stroke="#21262d" stroke-width="1" />
+
+  <!-- Main Name Title -->
+  <text x="50%" y="105" text-anchor="middle" fill="#ffffff" font-family="'JetBrains Mono', -apple-system, BlinkMacSystemFont, 'Segoe UI', monospace" font-size="34" font-weight="800" letter-spacing="3">
+    NEERAJ GAUTAM
+  </text>
+
+  <!-- Glowing Accent Underline -->
+  <line x1="260" y1="120" x2="590" y2="120" stroke="url(#cyanGlow)" stroke-width="2" />
+
+  <!-- Tagline / Subtitle -->
+  <text x="50%" y="152" text-anchor="middle" fill="#00ffc8" font-family="'JetBrains Mono', -apple-system, monospace" font-size="15" font-weight="600" letter-spacing="1.2">
+    Android &amp; Distributed Systems Engineer
+  </text>
+
+  <!-- Sub-Tagline -->
+  <text x="50%" y="176" text-anchor="middle" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="12" letter-spacing="0.8">
+    Fintech Systems  •  Zero-Trust Mindset  •  Terminal Velocity
+  </text>
+</svg>

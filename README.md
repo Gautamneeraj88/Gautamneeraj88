@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffc8,100:0d1117&height=200&section=header&text=NEERAJ%20GAUTAM&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Android%20%26%20Distributed%20Systems%20Engineer%20%C2%B7%20Fintech%20%26%20Security&descAlignY=58&descSize=15&descColor=00ffc8" width="100%"/>
+<img src="./banner.svg" alt="Neeraj Gautam Banner" width="100%" />
+
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=1000&color=00FFC8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=Building+resilient+systems+and+modern+mobile+experiences.;Security-aware+dev+%7C+Zero-trust+mindset+%7C+Terminal-first.)](https://git.io/typing-svg)
 
@@ -36,7 +38,7 @@ neeraj@workstation:~$ whoami --verbose
 
 ### 🧩 System Architecture in Action
 
-*High-level view of an enterprise event-driven architecture designed and deployed to production:*
+*Event-driven distributed architecture designed and deployed to production:*
 
 ```mermaid
 %%{init: {
@@ -51,36 +53,34 @@ neeraj@workstation:~$ whoami --verbose
     'edgeLabelBackground': '#0d1117'
   }
 }}%%
-graph LR
-    subgraph Client [" Client Layer "]
+flowchart TD
+    subgraph Clients [" Client Layer "]
+        direction LR
         Android["📱 Android App (Compose + MVVM)"]
         Web["💻 Web App (Next.js)"]
     end
 
-    subgraph Gateway [" Gateway & Ingestion "]
+    subgraph Gateway [" Gateway & Notification Layer "]
+        direction LR
         API["⚡ Node.js API Gateway"]
-        SSE["📡 SSE Notification Engine"]
+        SSE["📡 SSE Real-Time Hub"]
     end
 
-    subgraph Bus [" Distributed Event Bus "]
+    subgraph Core [" Distributed Event & Storage Tier "]
+        direction LR
         Kafka{{"🔥 Apache Kafka"}}
-    end
-
-    subgraph Persistence [" Data & Cache Layer "]
         Redis[("⚡ Redis Cache")]
-        Mongo[("🍃 MongoDB Replica Set")]
         Postgres[("🐘 PostgreSQL (BCNF)")]
+        Mongo[("🍃 MongoDB Replica Set")]
     end
 
-    Android -->|REST / SSE| API
-    Web -->|REST / SSE| API
-    API <-->|Low-latency Cache| Redis
-    API -->|Transactions| Postgres
+    Clients -->|HTTPS / WSS| API
+    API <-->|Sub-50ms Cache| Redis
+    API -->|ACID Transactions| Postgres
     API -->|Dynamic Forms| Mongo
     API -->|Publish Events| Kafka
-    Kafka -->|Async Consume| SSE
-    SSE -.->|Real-time Push| Android
-    SSE -.->|Real-time Push| Web
+    Kafka -->|Consume Events| SSE
+    SSE -.->|Push Notifications| Clients
 ```
 
 ---
@@ -236,7 +236,5 @@ $ echo "Let's connect: Android architecture · Distributed systems · Security r
 ```
 neeraj@gautam:~$ █
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffc8,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
