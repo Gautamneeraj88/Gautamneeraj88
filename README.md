@@ -1,51 +1,169 @@
-<div align="center">
+<p align="center">
+  <img width="100%" src="./banner.svg" alt="Neeraj Gautam Banner"/>
+</p>
 
-<img src="./banner.svg" alt="Neeraj Gautam Banner" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=24&duration=3500&pause=900&color=00FFC8&center=true&vCenter=true&width=750&lines=Full+Stack+%26+AI+Systems+Engineer;Building+Agentic+AI+%26+RAG+Workflows;Distributed+Microservices+%26+Event+Streams;Android+%26+IoT+Hardware+Telemetry;Zero-Trust+Security+%26+CPT+Certified;" />
+</p>
+
+---
+
+## 🎯 About Me
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+```typescript
+const neeraj = {
+    role: "Full Stack & AI Systems Engineer",
+    location: "India 🇮🇳",
+
+    building: [
+        "Agentic AI & RAG Workflows",
+        "High-Throughput Distributed Microservices",
+        "Interactive Web Applications (Next.js)"
+    ],
+
+    learning: [
+        "Advanced Multi-Agent Architectures (LangGraph)",
+        "Distributed Systems & Consensus",
+        "IoT Edge Hardware Telemetry"
+    ],
+
+    tech: {
+        fullstack: ["Next.js", "React", "Node.js", "TypeScript", "Express"],
+        ai_and_rag: ["LangGraph", "LangChain", "Vector DBs", "LLM Tool Calling"],
+        systems: ["Apache Kafka", "Redis", "PostgreSQL (BCNF)", "MongoDB"],
+        versatility: ["Android (Compose)", "IoT (Arduino/ESP32)", "Podman", "Neovim"]
+    }
+};
+```
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=1000&color=00FFC8&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=50&lines=Engineering+intelligent+agentic+systems+%26+distributed+web+backends.;Full+Stack+%C2%B7+LangGraph+%26+RAG+%C2%B7+Kafka+%C2%B7+Android+%26+IoT+%C2%B7+Neovim.)](https://git.io/typing-svg)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://64.media.tumblr.com/fe4f5cf2401ff266b34ef82791f11734/7e66e38f766b84c0-8a/s500x750/be2e2aca769f0a671dd8e32d55cae58f12e82460.gif" width="360"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/neeraj-gautam-b86188251" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gautamneeraj014@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Gautamneeraj88&style=for-the-badge&color=00ffc8&labelColor=0d1117&label=VIEWS" />
-  <a href="#-featured-proof-of-work"><img src="https://img.shields.io/badge/Target-Product--Based_2026-00ffc8?style=for-the-badge&labelColor=0d1117" /></a>
-  <a href="#-technical-arsenal"><img src="https://img.shields.io/badge/Security-CPT_Certified-8b5cf6?style=for-the-badge&labelColor=0d1117" /></a>
+  <a href="https://www.linkedin.com/in/neeraj-gautam-b86188251" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1C1D21?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" width="170" height="32" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Gautamneeraj88" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-1C1D21?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" width="170" height="32" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:gautamneeraj014@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EMAIL-1C1D21?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" width="170" height="32" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="#-featured-projects">
+    <img src="https://img.shields.io/badge/FOCUS-PRODUCT_2026-1C1D21?style=for-the-badge&logo=target&logoColor=white&labelColor=00FFC8" width="170" height="32" alt="Target" />
+  </a>
+  &nbsp;
+  <a href="#-tech-arsenal">
+    <img src="https://img.shields.io/badge/SECURITY-CPT_CERTIFIED-1C1D21?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=8B5CF6" width="170" height="32" alt="CPT" />
+  </a>
 </p>
 
-</div>
+<br>
 
----
+## 🛠️ Tech Arsenal
 
-### ⚡ Executive Overview
+<table align="center" width="100%">
+<tr>
 
-```bash
-neeraj@workstation:~$ whoami --verbose
-```
-```json
-{
-  "name": "Neeraj Gautam",
-  "role": "Full Stack & AI Systems Engineer",
-  "core_focus": [
-    "Agentic AI Workflows & RAG Pipelines (LangGraph · LangChain · Vector DBs)",
-    "Full Stack & Distributed Architectures (Next.js · Node.js · Kafka · Redis)",
-    "Fintech Reliability & Security (BCNF Normalization · CPT Certified · CVE Remediator)"
-  ],
-  "extended_capabilities": [
-    "Mobile Engineering (Kotlin · Jetpack Compose · MVVM Clean Architecture)",
-    "IoT & Edge Hardware (Arduino · ESP32 · Sensor Arrays · Telemetry)"
-  ],
-  "security_profile": "Patched Critical CVE GHSA-9qr9-h5gf-34mp in production",
-  "environment": "macOS M4 + Kali Linux (Pi 5) · Neovim (Lua, 50+ plugins) · Rootless Podman"
-}
-```
+<!-- LEFT COLUMN -->
+<td width="50%" align="center" valign="top">
 
----
+<h3>🎨 Frontend & Full Stack</h3>
 
-### 🧩 System Architecture in Action
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,vite&perline=6"/>
+</p>
 
-*End-to-end event-driven architecture coordinating full-stack clients, agentic AI workflows, and distributed storage:*
+<br>
+
+<h3>⚙️ Backend & Distributed Systems</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,kafka,redis,postgres,mongodb,prisma&perline=6"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SSE-00ffc8?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+</p>
+
+<br>
+
+<h3>🤖 Agentic AI & Intelligence</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi&perline=6"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-00ffc8?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Vector_DBs-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+</td>
+
+<!-- RIGHT COLUMN -->
+<td width="50%" align="center" valign="top">
+
+<h3>📱 Mobile & IoT Hardware</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,android,arduino,raspberrypi,cpp&perline=6"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hardware_Telemetry-FCC624?style=for-the-badge&logoColor=black"/>
+</p>
+
+<br>
+
+<h3>🛡️ Security & Dev Velocity</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,neovim,git,github&perline=6"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CPT_Certified-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CVE_GHSA--9qr9--h5gf--34mp-00ffc8?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+## 🧩 System Architecture in Action
 
 ```mermaid
 %%{init: {
@@ -100,74 +218,9 @@ flowchart TD
     Persistence -.->|Live Push Updates| Ingestion
 ```
 
----
-
-### 🛠 Technical Arsenal
-
-<div align="center">
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,python,kafka,redis,postgres,mongodb,kotlin,android,arduino,docker,linux,neovim,cpp&theme=dark" />
-</p>
-
 <br>
 
-**· 🧠 Agentic AI & Intelligence ·**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-8B5CF6?style=flat-square&logoColor=white)
-![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-00ffc8?style=flat-square&labelColor=0d1117)
-![Vector Stores](https://img.shields.io/badge/Vector_DBs-FF6B6B?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI Automations](https://img.shields.io/badge/AI_Automations-2496ED?style=flat-square)
-
-**· ⚡ Full Stack & Distributed Systems ·**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SSE](https://img.shields.io/badge/SSE-00ffc8?style=flat-square&labelColor=0d1117)
-
-**· 📱 Mobile & IoT Hardware (Versatility) ·**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![IoT Telemetry](https://img.shields.io/badge/Hardware_Telemetry-FCC624?style=flat-square&logoColor=black)
-
-**· 🛡️ DevOps, Security & Developer Velocity ·**
-
-![CPT Certified](https://img.shields.io/badge/CPT_Certified-8B5CF6?style=flat-square)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-</div>
-
-<br>
-
-| Capability Layer | Stack & Tools | Applied Engineering Focus |
-| :--- | :--- | :--- |
-| **Agentic AI & LLMs** | LangGraph, LangChain, RAG, Vector Stores, OpenAI / Claude / Gemini APIs | Autonomous tool-calling agents, stateful reasoning graphs, semantic document retrieval |
-| **Full Stack & Distributed** | Node.js, Express, Next.js, React, Kafka, Redis, PostgreSQL, MongoDB | Event streaming, sub-50ms caching, microservices, BCNF data normalization |
-| **Client & Edge Versatility** | Kotlin, Jetpack Compose, Arduino, ESP32, Sensor Arrays | Reactive mobile UIs, sensor telemetry streams, hardware-to-cloud bridges |
-| **DevOps & Security** | CPT Certified, Podman, Docker, Linux, GitHub Actions, Neovim (Lua) | Production CVE remediation, threat modeling, rootless containers, terminal velocity |
-
----
-
-### 🚀 Featured Proof-of-Work
+## 🚀 Featured Projects
 
 <details open>
 <summary><b>🛡️ FormBuilder & Microservices Platform (Enterprise Full Stack)</b></summary>
@@ -253,18 +306,27 @@ flowchart TD
 
 </details>
 
----
+<br>
 
-### 📈 Activity & Stats
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gautamneeraj88&theme=tokyonight"/>
+</p>
 
-<img height="155em" src="https://github-stats-extended.vercel.app/api?username=Gautamneeraj88&show_icons=true&theme=transparent&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=8b949e&bg_color=0d1117&count_private=true&include_all_commits=true" />
-<img height="155em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gautamneeraj88&layout=compact&theme=transparent&hide_border=true&title_color=00ffc8&text_color=8b949e&bg_color=0d1117&langs_count=6" />
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gautamneeraj88&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gautamneeraj88&theme=tokyonight&utcOffset=5.5"/>
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=Gautamneeraj88&theme=transparent&hide_border=true&stroke=1a2535&ring=00ffc8&fire=ff6b6b&currStreakLabel=00ffc8&sideLabels=8b949e&dates=3a4a5a&background=0d1117" />
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gautamneeraj88&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gautamneeraj88&theme=tokyonight"/>
+</p>
 
-</div>
+<p align="center">
+  <img width="98%" src="https://streak-stats.demolab.com/?user=Gautamneeraj88&theme=tokyonight&hide_border=true" />
+</p>
 
 #### ⚡ Recent Activity
 <!--START_SECTION:activity-->
@@ -272,20 +334,34 @@ flowchart TD
 - 🌱 Created branch `fix/keymap-and-plugin-cleanup` in [Gautamneeraj88/nvim-config](https://github.com/Gautamneeraj88/nvim-config) — *Aug 25, 2026*
 <!--END_SECTION:activity-->
 
+<br>
+
+## 📋 GitHub Profile Summary
+
+<p align="center">
+  <img height="32" src="https://komarev.com/ghpvc/?username=Gautamneeraj88&label=PROFILE+VIEWS&style=for-the-badge&labelColor=181717&color=00FFC8"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&labelColor=181717&color=F43F5E&query=public_repos&url=https://api.github.com/users/Gautamneeraj88"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Gautamneeraj88?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=181717&color=38BDF8"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/Gautamneeraj88?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=181717&color=22C55E"/>
+</p>
+
+<p align="center">
+  ⭐ <b>Connect with <a href="https://github.com/Gautamneeraj88">Neeraj Gautam</a></b> ⭐
+</p>
+
+<p align="center">
+  <i>"Turning ideas into resilient, intelligent systems — one commit at a time!"</i> 🚀
+</p>
+
 ---
 
-<div align="center">
-
-```bash
-$ echo "Let's connect: Full Stack · Agentic AI · Distributed Systems · Security Research"
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-gautam-b86188251)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gautamneeraj88)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gautamneeraj014@gmail.com)
-
-```
-neeraj@gautam:~$ █
-```
-
-</div>
+<p align="center">
+  <code>neeraj@gautam:~$ echo "Open to: Full Stack · Agentic AI · Distributed Systems · System Design" █</code>
+</p>
