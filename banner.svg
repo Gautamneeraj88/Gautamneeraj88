@@ -2,21 +2,22 @@
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0d12" />
+      <stop offset="0%" stop-color="#090d14" />
       <stop offset="50%" stop-color="#0d1117" />
-      <stop offset="100%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#141124" />
     </linearGradient>
 
-    <!-- Cyan Glow Gradient -->
-    <linearGradient id="cyanGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- Dual Accent Glow Gradient: Cyan to Neural Violet -->
+    <linearGradient id="dualGlow" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00ffc8" stop-opacity="0" />
-      <stop offset="50%" stop-color="#00ffc8" stop-opacity="1" />
-      <stop offset="100%" stop-color="#00ffc8" stop-opacity="0" />
+      <stop offset="25%" stop-color="#00ffc8" stop-opacity="1" />
+      <stop offset="75%" stop-color="#8b5cf6" stop-opacity="1" />
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0" />
     </linearGradient>
 
     <!-- Subtle Grid Pattern -->
     <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#21262d" stroke-width="0.5" stroke-opacity="0.5" />
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#21262d" stroke-width="0.5" stroke-opacity="0.4" />
     </pattern>
   </defs>
 
@@ -26,17 +27,17 @@
   <!-- Grid Overlay -->
   <rect width="850" height="200" rx="12" fill="url(#grid)" />
 
-  <!-- Top Cyan Glow Border -->
-  <path d="M 12 1 Q 425 2 838 1" fill="none" stroke="url(#cyanGlow)" stroke-width="2.5" />
+  <!-- Top Glowing Dual Border -->
+  <path d="M 12 1 Q 425 2 838 1" fill="none" stroke="url(#dualGlow)" stroke-width="2.5" />
 
-  <!-- Mac Terminal Header Controls -->
+  <!-- Mac Terminal Controls -->
   <circle cx="28" cy="24" r="5.5" fill="#ff5f56" />
   <circle cx="46" cy="24" r="5.5" fill="#ffbd2e" />
   <circle cx="64" cy="24" r="5.5" fill="#27c93f" />
 
   <!-- Terminal Title Bar -->
   <text x="85" y="28" fill="#8b949e" font-family="'JetBrains Mono', 'Fira Code', 'Courier New', monospace" font-size="12" letter-spacing="0.5">neeraj@workstation:~</text>
-  <text x="825" y="28" text-anchor="end" fill="#00ffc8" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" opacity="0.8">zsh · arm64</text>
+  <text x="825" y="28" text-anchor="end" fill="#8b5cf6" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" opacity="0.9">zsh · arm64 · ai-core</text>
 
   <!-- Divider Line -->
   <line x1="1" y1="44" x2="849" y2="44" stroke="#21262d" stroke-width="1" />
@@ -47,15 +48,15 @@
   </text>
 
   <!-- Glowing Accent Underline -->
-  <line x1="260" y1="120" x2="590" y2="120" stroke="url(#cyanGlow)" stroke-width="2" />
+  <line x1="240" y1="120" x2="610" y2="120" stroke="url(#dualGlow)" stroke-width="2" />
 
-  <!-- Tagline / Subtitle -->
+  <!-- Subtitle -->
   <text x="50%" y="152" text-anchor="middle" fill="#00ffc8" font-family="'JetBrains Mono', -apple-system, monospace" font-size="15" font-weight="600" letter-spacing="1.2">
-    Android &amp; Distributed Systems Engineer
+    Full Stack &amp; AI Systems Engineer
   </text>
 
   <!-- Sub-Tagline -->
-  <text x="50%" y="176" text-anchor="middle" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="12" letter-spacing="0.8">
-    Fintech Systems  •  Zero-Trust Mindset  •  Terminal Velocity
+  <text x="50%" y="176" text-anchor="middle" fill="#8b949e" font-family="'JetBrains Mono', monospace" font-size="11.5" letter-spacing="0.8">
+    Agentic AI &amp; RAG  •  Distributed Microservices  •  Android &amp; IoT  •  Fintech Security
   </text>
 </svg>
