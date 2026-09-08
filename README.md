@@ -1,278 +1,158 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=1000&color=00FFC8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=neeraj%40gautam+~+%24+cat+profile.txt;+%3E%3E+Android+%26+Backend+Developer;neeraj%40gautam+~+%24+_)](https://git.io/typing-svg)
+# Neeraj Gautam
+### Android & Distributed Systems Engineer · Fintech & Security Mindset
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=1000&color=00FFC8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=Building+resilient+systems+and+modern+mobile+experiences.;Security-aware+dev+%7C+Zero-trust+mindset+%7C+Terminal-first.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gautamneeraj88&style=flat-square&color=00ffc8&labelColor=0d1117&label=views" />
-  <a href="https://www.linkedin.com/in/neeraj-gautam-b86188251"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/open_to_work-00ffc8?style=flat-square&labelColor=0d1117" />
+  <a href="https://www.linkedin.com/in/neeraj-gautam-b86188251"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gautamneeraj014@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Focus-Product--Based_Company_2026-00ffc8?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Security-CPT_Certified-00ffc8?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 </div>
 
 ---
 
-```bash
-$ whoami
+### ⚡ Executive Overview
 
-  name    :  Neeraj Gautam
-  role    :  Android + Backend Developer
-  company :  Banking Startup  🏦
-  stack   :  Kotlin  ·  Jetpack Compose  ·  Node.js  ·  Microservices
-  focus   :  DSA  ·  System Design  ·  Cybersecurity
-  goal    :  Product-Based Company — July 2026
-  tools   :  Neovim  ·  Linux  ·  Git  ·  Podman
-  hobbies :  CTFs  ·  Raspberry Pi  ·  Linux Tinkering
-```
-
----
-
-## `$ cat value.txt`
-
-```
-  WHAT I BRING TO YOUR TEAM
-  ──────────────────────────────────────────────────────────────────────
-  [+] Full Android Stack      Compose + MVVM + Clean Arch
-                              Production-ready, no ramp-up needed
-
-  [+] Backend Ownership       Node.js · Kafka · Redis
-                              Can own a service end-to-end
-
-  [+] Fintech Experience      Worked in banking — security,
-                              reliability & compliance by default
-
-  [+] Security-Aware Dev      CVE patched in production
-                              CPT Certified · Thinks about
-                              attack surfaces during dev, not after
-
-  [+] Architecture Thinking   Kafka + MongoDB Replica Set + Podman
-                              Designed & deployed in production
-
-  [+] Terminal-First Dev      Neovim · Linux workflow
-                              High output, minimal friction
-  ──────────────────────────────────────────────────────────────────────
-```
-
----
-
-## `$ ls -la skills/`
-
-<div align="center">
-
-**· Android ·**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-FF6B6B?style=flat-square)
-![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
-
-**· Backend & Microservices ·**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![SSE](https://img.shields.io/badge/SSE-00ffc8?style=flat-square&labelColor=0d1117)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-**· Databases & Messaging ·**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**· DevOps & Infra ·**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-**· Security & Tools ·**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-</div>
-
----
-
-## `$ ls -la projects/`
+I engineer high-throughput backend microservices and fluid, reactive Android applications. With a foundation in banking/fintech, my focus is on **data integrity, zero-trust security, and high-concurrency event-driven architecture**.
 
 ```bash
-drwxr-xr-x  bank-on-the-go/         Kotlin · Compose · PostgreSQL · SSE
-drwxr-xr-x  formbuilder/            Node.js · Kafka · MongoDB · Redis · Next.js
-drwxr-xr-x  grain-quality-monitor/  Arduino · FastAPI · MongoDB · IoT
-drwxr-xr-x  dsa-mastery/            React · D3.js · Vite                [BUILDING]
+$ whoami --verbose
+{
+  "name": "Neeraj Gautam",
+  "specialization": ["Android Architecture (Compose)", "Event-Driven Microservices (Kafka)"],
+  "domain_experience": "Fintech & Banking Systems (Reliability, Compliance, BCNF Normalization)",
+  "security_profile": "CPT Certified · Production CVE Patch Remediator (GHSA-9qr9-h5gf-34mp)",
+  "developer_environment": "macOS M4 + Kali Linux (Pi 5) · Neovim (Lua, 50+ plugins) · Linux/Podman"
+}
 ```
 
-<details>
-<summary><code>$ cat projects/bank-on-the-go.md</code></summary>
+---
 
+### 🧩 System Architecture in Action
+
+*High-level overview of an enterprise event-driven architecture I've designed and deployed:*
+
+```mermaid
+graph LR
+    subgraph Client ["Client Layer"]
+        Android["📱 Android App (Compose + MVVM)"]
+        Web["💻 Web App (Next.js)"]
+    end
+
+    subgraph Gateway ["Gateway & Ingestion"]
+        API["⚡ Node.js API Gateway"]
+        SSE["📡 SSE Notification Engine"]
+    end
+
+    subgraph Bus ["Distributed Event Bus"]
+        Kafka{{"🔥 Apache Kafka"}}
+    end
+
+    subgraph Persistence ["Data & Cache"]
+        Redis[("⚡ Redis Cache")]
+        Mongo[("🍃 MongoDB Replica Set")]
+        Postgres[("🐘 PostgreSQL (BCNF)")]
+    end
+
+    Android -->|REST / SSE| API
+    Web -->|REST / SSE| API
+    API <-->|Low-latency Cache| Redis
+    API -->|Transactions| Postgres
+    API -->|Dynamic Forms| Mongo
+    API -->|Publish Events| Kafka
+    Kafka -->|Async Consume| SSE
+    SSE -.->|Real-time Push| Android
+    SSE -.->|Real-time Push| Web
+```
+
+---
+
+### 🛠 Technical Arsenal
+
+| Domain | Core Stack | Applied Focus |
+| :--- | :--- | :--- |
+| **Mobile Engineering** | **Kotlin**, **Jetpack Compose**, Coroutines, StateFlow, Retrofit | Clean Architecture, MVVM, 60fps UI, offline-first persistence |
+| **Backend & Distributed** | **Node.js**, **Express**, **Kafka**, **Redis**, **SSE**, WebSockets | Event streaming, Pub/Sub, horizontal scaling, sub-50ms caching |
+| **Databases** | **PostgreSQL**, **MongoDB**, **Prisma ORM** | BCNF normalization, replica sets, transaction guarantees |
+| **DevOps & Infrastructure** | **Podman**, **Docker**, Linux, GitHub Actions CI/CD, Nginx | Containerized microservices, rootless containers, automated pipelines |
+| **Security & Auditing** | **CPT Certified**, Kali Linux, Wireshark, Metasploit, DVWA | Production CVE remediation, threat modeling, attack surface reduction |
+| **Dev Velocity** | **Neovim** (50+ Lua plugins), Tmux, Zsh, Git | Keyboard-driven workflow, zero GUI overhead, high output |
+
+---
+
+### 🚀 Featured Proof-of-Work
+
+<details open>
+<summary><b>🔥 DSA Mastery — Interactive Algorithm Visualizer (Open Source)</b></summary>
 <br>
 
-> **Android Banking App** — Full-featured mobile banking application
-
-- **Stack:** Kotlin · Jetpack Compose · MVVM · Retrofit
-- **Architecture:** Clean Architecture + Repository Pattern
-- **Features:** Secure auth, transaction history, real-time SSE notifications
-- **DB:** Prisma ORM + PostgreSQL with BCNF normalization
-
-![private](https://img.shields.io/badge/repo-private_(office_work)-6a7a90?style=flat-square&logo=github&logoColor=white)
-
-</details>
-
-<details>
-<summary><code>$ cat projects/formbuilder.md</code></summary>
-
-<br>
-
-> **Microservices App** — Dynamic form builder with enterprise features
-
-- **Stack:** Node.js · Next.js · MongoDB Replica Set · Redis · Kafka
-- **Infra:** Podman containers, SSH key auth, enterprise server deployment
-- **Features:** Real-time notifications via RxJS + Kafka, AI-powered reports
-- **Security:** Patched CVE GHSA-9qr9-h5gf-34mp (Next.js RCE)
-
-![private](https://img.shields.io/badge/repo-private_(office_work)-6a7a90?style=flat-square&logo=github&logoColor=white)
-
-</details>
-
-<details>
-<summary><code>$ cat projects/grain-monitor.md</code></summary>
-
-<br>
-
-> **IoT Device** — Automated grain quality measurement system
-
-- **Stack:** Arduino + Sensors → FastAPI → MongoDB
-- **Features:** Web dashboard, real-time sensor readings
-- **Hardware:** Custom sensor array for quality metrics
-
-![private](https://img.shields.io/badge/repo-private_(office_work)-6a7a90?style=flat-square&logo=github&logoColor=white)
-
-</details>
-
-<details>
-<summary><code>$ cat projects/dsa-mastery.md</code></summary>
-
-<br>
-
-> **Open Source** — Interactive DSA learning platform
+> Interactive educational platform visualizing 190+ data structures and algorithms with real-time canvas state machines.
 
 - **Stack:** React · D3.js · Vite · GitHub Pages
-- **Features:** 9 interactive visualizers, 190+ topics, quiz system
-- **Arch:** Static JSON data, custom visualizer state machine, CI/CD
+- **Engineering Highlights:** Custom canvas animation pipeline, algorithmic step-by-step state machine, zero heavy UI framework dependencies.
+- **Links:** [🌐 Live Demo](https://gautamneeraj88.github.io/dsa-mastery) · [💻 GitHub Repository](https://github.com/Gautamneeraj88/dsa-mastery)
 
-[![view repo](https://img.shields.io/badge/view_repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gautamneeraj88/dsa-mastery)
-[![Live Demo](https://img.shields.io/badge/live_demo-00ffc8?style=flat-square&logo=vercel&logoColor=black)](https://gautamneeraj88.github.io/dsa-mastery)
+</details>
+
+<details>
+<summary><b>🛡️ FormBuilder & Real-Time Engine — Distributed Platform (Enterprise)</b></summary>
+<br>
+
+> High-throughput dynamic form engine and notification service supporting enterprise clients.
+
+- **Stack:** Node.js · Kafka · Redis · MongoDB Replica Set · Next.js · Podman
+- **Engineering Highlights:**
+  - Event-driven notifications orchestrated via Apache Kafka and RxJS over Server-Sent Events (SSE).
+  - Remediated critical Remote Code Execution CVE (`GHSA-9qr9-h5gf-34mp`) in production Next.js dependencies.
+  - Containerized and deployed with rootless Podman on enterprise servers.
+- **Status:** `Office Work (Proprietary)`
+
+</details>
+
+<details>
+<summary><b>📱 Bank On The Go — Modern Android Banking Application (Fintech)</b></summary>
+<br>
+
+> Mobile banking application built with modern Android guidelines, focusing on banking-grade security and instant transaction updates.
+
+- **Stack:** Kotlin · Jetpack Compose · MVVM · Clean Architecture · PostgreSQL · SSE
+- **Engineering Highlights:**
+  - Unidirectional Data Flow (UDF) with Compose and Coroutines/StateFlow.
+  - BCNF normalized schema via Prisma + PostgreSQL for strict transaction consistency.
+  - Real-time balance and transaction push alerts via SSE.
+- **Status:** `Office Work (Proprietary)`
+
+</details>
+
+<details>
+<summary><b>⚡ Neovim Configuration — Ultimate Terminal Development Environment</b></summary>
+<br>
+
+> Fully modular Lua-based Neovim configuration built for blazing-fast full-stack and mobile development.
+
+- **Stack:** Lua · Neovim 0.10+ · Treesitter · Mason · Telescope · LSP Zero
+- **Features:** 50+ plugins, sub-40ms startup time, unified theme, customized keymaps.
+- **Links:** [💻 GitHub Repository](https://github.com/Gautamneeraj88/nvim-config)
 
 </details>
 
 ---
 
-## `$ cat architecture/formbuilder.txt`
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     FORMBUILDER PLATFORM                        │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  ┌──────────────┐    ┌──────────────┐    ┌──────────────────┐  │
-│  │  Next.js     │    │  Node.js     │    │   Notification   │  │
-│  │  Frontend    │◄──►│  API Gateway │◄──►│   Service (SSE)  │  │
-│  └──────────────┘    └──────┬───────┘    └──────────────────┘  │
-│                              │                                   │
-│              ┌───────────────┼───────────────┐                  │
-│              ▼               ▼               ▼                  │
-│       ┌─────────┐    ┌──────────┐    ┌──────────────┐         │
-│       │ MongoDB │    │  Redis   │    │    Kafka      │         │
-│       │ Replica │    │  Cache   │    │  Event Bus    │         │
-│       │   Set   │    │          │    │               │         │
-│       └─────────┘    └──────────┘    └──────────────┘         │
-│                                                                  │
-│  All services containerized with Podman on enterprise servers   │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `$ ./stats.sh`
+### 📈 Activity & Stats
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gautamneeraj88&show_icons=true&theme=transparent&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=6a7a90&bg_color=0d1117&count_private=true&include_all_commits=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautamneeraj88&layout=compact&theme=transparent&hide_border=true&title_color=00ffc8&text_color=6a7a90&bg_color=0d1117&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gautamneeraj88&theme=transparent&hide_border=true&stroke=1a2535&ring=00ffc8&fire=ff6b6b&currStreakLabel=00ffc8&sideLabels=6a7a90&dates=3a4a5a&background=0d1117" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gautamneeraj88&bg_color=0d1117&color=6a7a90&line=00ffc8&point=ffffff&area=true&area_color=00ffc820&hide_border=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gautamneeraj88&show_icons=true&theme=transparent&hide_border=true&title_color=00ffc8&icon_color=00ffc8&text_color=8b949e&bg_color=0d1117&count_private=true&include_all_commits=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gautamneeraj88&layout=compact&theme=transparent&hide_border=true&title_color=00ffc8&text_color=8b949e&bg_color=0d1117&langs_count=6" />
 
 </div>
 
----
-
-## `$ cat security/profile.txt`
-
-```
-  CYBERSECURITY  [CPT CERTIFIED]
-  ──────────────────────────────────────────────────────────────────
-  platform    :  TryHackMe       ctf challenges, learning rooms
-  platform    :  HackTheBox      penetration testing practice
-  platform    :  DVWA            web vulnerability practice (local)
-  achievement :  CVE Research    patched CVE GHSA-9qr9-h5gf-34mp in prod
-  hardware    :  Raspberry Pi 5  running Kali Linux container
-  mindset     :  security is a core engineering skill, not a hobby
-  ──────────────────────────────────────────────────────────────────
-```
-
----
-
-## `$ neofetch`
-
-```bash
-OS        :  macOS (MacBook Air M4)  +  Raspberry Pi 5 (Kali Linux)
-Shell     :  zsh
-Editor    :  Neovim  [50+ plugins — see nvim-config repo]
-Terminal  :  iTerm2 / Alacritty
-Notes     :  Samsung Tab S6 Lite  (Cornell system, handwritten)
-Workflow  :  Terminal-first. Mouse optional.
-```
-
-[![nvim config](https://img.shields.io/badge/nvim_config-57A143?style=flat-square&logo=neovim&logoColor=white)](https://github.com/Gautamneeraj88/nvim-config)
-
----
-
-## `$ cat learning.log`
-
-```
-  [ONGOING]  Advanced Pentesting    →  Hobby → Credential
-  [PLANNED]  Go (Golang)            →  Backend diversification
-  [QUEUED]   Cloud Architecture     →  Complement microservices expertise
-```
-
----
-
-## `$ cat goals/2026.txt`
-
-```bash
-[ ]  Land a role at a Product-Based Company
-[ ]  Launch DSA Mastery as open source
-[ ]  Ship Bank On The Go to production
-[ ]  Hit 100 GitHub stars on an open source project
-[ ]  Earn an advanced cybersecurity certification
-```
-
----
-
-## `$ tail -f activity.log`
-
+#### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
@@ -281,15 +161,15 @@ Workflow  :  Terminal-first. Mouse optional.
 <div align="center">
 
 ```bash
-$ echo "Always open to: Android arch · microservices · Neovim · CTF writeups"
+$ echo "Let's connect: Android architecture · Distributed systems · Security research"
 ```
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-gautam-b86188251)
-[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gautamneeraj88)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-gautam-b86188251)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gautamneeraj88)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gautamneeraj014@gmail.com)
 
 ```
 neeraj@gautam:~$ █
 ```
 
 </div>
-

@@ -9,6 +9,8 @@ jobs:
   update-readme:
     name: Update Recent Activity
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
