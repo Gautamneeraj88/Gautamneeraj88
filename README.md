@@ -330,8 +330,8 @@ flowchart TD
 
 #### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-- ⚡ Pushed 1 commit to [Gautamneeraj88/profile_scraper](https://github.com/Gautamneeraj88/profile_scraper) — *Sep 26, 2026*
-- 🌱 Created branch `main` in [Gautamneeraj88/profile_scraper](https://github.com/Gautamneeraj88/profile_scraper) — *Sep 26, 2026*
+- 💪 Merged PR [#2](undefined) in [Gautamneeraj88/nvim-config](https://github.com/Gautamneeraj88/nvim-config) — *Nov 11, 2026*
+- 💪 Opened PR [#2](undefined) in [Gautamneeraj88/nvim-config](https://github.com/Gautamneeraj88/nvim-config) — *Nov 11, 2026*
 <!--END_SECTION:activity-->
 
 <br>
